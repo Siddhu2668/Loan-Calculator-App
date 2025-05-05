@@ -190,7 +190,7 @@ Pull requests are welcome! Please open an issue first to discuss what you would 
 
 ## 📬 Contact
 
-Have feedback or questions? Reach out at \[[siddharthasiddhu036@example.com]]
+Have feedback or questions? Reach out at \[[siddharthasiddhu036@gmail.com]]
 
 ---
 
