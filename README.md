@@ -73,7 +73,7 @@ npm -v
 ### 2. Clone & Navigate
 
 ```bash
-git clone https://github.com/your-username/loan-calculator-app.git
+git clone https://github.com/Siddhu2668/Loan-Calculator-App
 cd loan-calculator-app
 ```
 
